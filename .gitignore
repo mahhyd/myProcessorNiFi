@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+target/
+
+# Intelliji
+.idea/
+*.iml
+*.iws
+
+# Log file
+*.log
+
